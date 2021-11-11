@@ -1,3 +1,12 @@
+/////////////////////////////////////////////////////////////////////////
+//                                                                     //
+//                                                                     //
+//                  Basic Node JS Web Server                           //
+//                     Basic NodeJS Needed                             //             
+//                     rhys#9931 on discord                            //              
+//                                                                     //
+/////////////////////////////////////////////////////////////////////////
+
 var connect = require('connect');  // Importing Required Modules
 var serveStatic = require('serve-static'); // Importing Required Modules
 
@@ -8,3 +17,4 @@ connect()
 
 
        // Read Github Read Me For More Details
+       
